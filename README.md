@@ -8,7 +8,7 @@ This Python script resizes images in a specified folder to the dimensions of 768
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your_username/image-resizer.git
+   https://github.com/venkatesh-madanwale/Image-Resize-Unstretch.git
    ```
 
 2. Navigate to the cloned repository:
